@@ -19,8 +19,6 @@ const Suffix = ".ps1"
 func Command() (string, []string) {
 	return "powershell", []string{
 		"-noprofile",
-		"-executionpolicy",
-		"bypass",
 		"-noninteractive",
 		"-command",
 	}
