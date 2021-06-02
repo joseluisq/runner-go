@@ -1,6 +1,6 @@
 module github.com/joseluisq/runner-go
 
-go 1.12
+go 1.16
 
 require (
 	github.com/99designs/basicauth-go v0.0.0-20160802081356-2a93ba0f464d
