@@ -8,7 +8,7 @@ import (
 	"context"
 	"strings"
 
-	"github.com/drone/runner-go/logger"
+	"github.com/joseluisq/runner-go/logger"
 
 	"github.com/drone/drone-go/drone"
 )

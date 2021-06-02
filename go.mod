@@ -1,4 +1,4 @@
-module github.com/drone/runner-go
+module github.com/joseluisq/runner-go
 
 go 1.12
 

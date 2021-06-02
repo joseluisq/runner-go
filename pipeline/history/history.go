@@ -11,8 +11,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/drone/runner-go/internal"
-	"github.com/drone/runner-go/pipeline"
+	"github.com/joseluisq/runner-go/internal"
+	"github.com/joseluisq/runner-go/pipeline"
 )
 
 var _ pipeline.Reporter = (*History)(nil)

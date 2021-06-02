@@ -9,9 +9,9 @@ import (
 	"testing"
 
 	"github.com/drone/drone-go/drone"
-	"github.com/drone/runner-go/client"
-	"github.com/drone/runner-go/livelog"
-	"github.com/drone/runner-go/pipeline"
+	"github.com/joseluisq/runner-go/client"
+	"github.com/joseluisq/runner-go/livelog"
+	"github.com/joseluisq/runner-go/pipeline"
 
 	"github.com/google/go-cmp/cmp"
 )

@@ -8,8 +8,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/drone/runner-go/logger"
-	"github.com/drone/runner-go/manifest"
+	"github.com/joseluisq/runner-go/logger"
+	"github.com/joseluisq/runner-go/manifest"
 
 	"github.com/drone/drone-go/drone"
 	"github.com/drone/drone-go/plugin/secret"

@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/drone/drone-go/drone"
-	"github.com/drone/runner-go/client"
+	"github.com/joseluisq/runner-go/client"
 
 	"github.com/google/go-cmp/cmp"
 )

@@ -16,7 +16,7 @@ import (
 	"time"
 
 	"github.com/drone/drone-go/drone"
-	"github.com/drone/runner-go/logger"
+	"github.com/joseluisq/runner-go/logger"
 )
 
 const (

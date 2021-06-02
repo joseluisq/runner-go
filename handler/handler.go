@@ -12,8 +12,8 @@ import (
 	"strconv"
 
 	"github.com/drone/drone-go/drone"
-	hook "github.com/drone/runner-go/logger/history"
-	"github.com/drone/runner-go/pipeline/history"
+	hook "github.com/joseluisq/runner-go/logger/history"
+	"github.com/joseluisq/runner-go/pipeline/history"
 )
 
 // HandleHealth returns a http.HandlerFunc that returns a 200
